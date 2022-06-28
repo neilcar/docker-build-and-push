@@ -1,2 +1,2 @@
 FROM alpine
-CMD ["echo", "Hello Torq!"]
+CMD ["echo", "Hello Torq people!"]
